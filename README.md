@@ -1,5 +1,7 @@
 # 📊 Projeto Power BI: Dashboard de Análise de Vendas de Carros
 
+![image](https://github.com/user-attachments/assets/e219b4f3-b4e0-46b6-aa08-ea989e755a16)
+
 ## 🚗 Descrição do Projeto
 Este projeto tem como objetivo analisar dados de vendas de veículos, abrangendo quantidade vendida, receita, ticket médio, margem de lucro e popularidade de modelos. O dashboard foi desenvolvido no Power BI utilizando gráficos e medidas personalizadas para facilitar a visualização e apoiar decisões estratégicas.
 
